@@ -11,6 +11,7 @@ public class KodillaCourseApplication {
         SpringApplication.run(KodillaCourseApplication.class, args);
         Calculator calculator = new Calculator();
         System.out.println(calculator.addition(5, 6));
+
     }
 
 
